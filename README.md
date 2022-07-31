@@ -10,11 +10,11 @@ I tried to search the Internet for methodologies and best practices for self-dev
 
 I have seen how people write about how to make and reach goals, make themselves better, be successful and other strange things to me.
 It is all not meaningless, but it is just the small part of an iceberg that cannot stay afloat without a huge underwater invisible part.
-Besides goals and achievements in life, there is still a lot of things that are much more significant, valuable and interesting.
+Besides goals and achievements in life, there are still a lot of things that are much more significant, valuable and interesting.
 
 <br clear="left"/>
 
-<img src="https://user-images.githubusercontent.com/45210795/182031135-cde2a068-104b-470d-998f-9337229dc11e.jpg" align="right" height="210"/> And in truth, achievements of goals can be titonically difficult without the simple ability to live.<br>
+<img src="https://user-images.githubusercontent.com/45210795/182031135-cde2a068-104b-470d-998f-9337229dc11e.jpg" align="right" height="210"/> And in truth, achievements of goals can be titanic difficult without the simple ability to live.<br>
 Comparing self-development process to process of site creation - if you will focus on goals and success, then you draw design of your client-side (Frontend), but you will still need big amount of work for creating server-side (Backend). And now let's see how the development of the site differs from the development of person itself: to create backend part of site you can hire one more software developer, tell him what to do, and he will do it for you. But to make real self-development maximum who you can hire is a set of consultants and coaches - it means you have to do main job by yourself, nobody except you can't change you, of course, if we discard the direct effect on the body due to surgical or medical intervention.<br>
 
 That is why we see such cases when people not accept themselves, run to consultants, sometimes it helps (and it is really good when consultant can help you), and if consultants can not help some people try to fix their bodies with hope that after fix they will accept themselves. I will say you even more, when people unsatisfied, sometimes they can suffer, and it can push them to do things that even they themselves would not wish such things on anyone, for example: drug use, suicide, crime. So when unprepared people want to develop themselves and read about methodologies written in terminology like goals and success, for most part of these people it this will lead to an attempt to harness themselves and at the same time beckon them with a carrot and beat them in the ass with a whip, and so on until you are blue in the face.
