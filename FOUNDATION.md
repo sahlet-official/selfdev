@@ -1,7 +1,7 @@
 ### What exactly foundation means:
 
 1. Practice
-   - To practice exercises for:
+   - Practice exercises for:
      - to impact cognitive functions;
      - to choose and develop mindset (principles) that will allow me to define the foundation to live life as I want (relaxed enough, happy) and for everything what I do, in a sense, religion built not on dogmas, but on naturally formed regularities obtained by personal experience or provable ways;
      - to develop acceptance;
