@@ -22,8 +22,8 @@ That is why we see such cases when people not accept themselves, run to consulta
 <br clear="left"/>
 
 
-So I want to start my self-development process not by setting my goals (not hang a carrot in front of me and dream about the taste of it) and then try to achieve them in the spirit of the traditional racers for success phrase "fake it until you make it". No. I don't want to look like successful. I actually even don't want to be successful (in terms of society). I want just live life with pleasure do what I want or nothing at all (which is also cool thing actually - just live and do nothing).
-So I want to start with creating of really powerful strong foundation - create my "Backend" that will allow me to make the "Frontend" whatever I want. If saying in allegories: on such foundation I will be able to launch rockets, build skyscraper, malls, or just live like that and with time the foundation will be overgrown with forest (do nothing and see what's happening).
+I want to start my self-development process not by setting my goals (not hang a carrot in front of me and dream about the taste of it) and then try to achieve them in the spirit of the traditional racers for success phrase "fake it until you make it". No. I don't want to look like successful. I actually even don't want to be successful (in terms of society). I want just live life with pleasure do what I want or nothing at all (which is also cool thing actually - just live and do nothing).
+So I want to start with creating of really powerful strong foundation - create my "Backend" that will allow me to make the "Frontend" whatever I want. If saying in allegories: on such foundation I will be able to launch rockets, build skyscraper, malls, or just live like that and with time the foundation will be overgrown with forest (do nothing and see what's happening). [Click here to see what exactly foundation means]().
 
 <img src="https://user-images.githubusercontent.com/45210795/182031447-184eaad7-124d-417f-9414-5410c35cfcbf.jpg" width="100%"/>
 <br clear="left"/>
