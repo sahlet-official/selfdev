@@ -1,10 +1,20 @@
-# self-dev
-repository for organizing self-development process
+### Repository for organizing self-development process
+
 
 I really interested in dive into the topic of self-development.
 
-I have tried to google methodologies and best practice of self-development <searcher picture>.
-I have seen how people write about how to make and reach goals, make themselves better, be successful and other strange things to me. It is all not meaningless, but it is just the small part of an iceberg that cannot stay afloat without a huge underwater invisible part <iceberg picture>. Besides goals and achievements in life, there is still a lot of things that are much more significant, valuable and interesting. And in truth, achievements of goals can be titonically difficult without the simple ability to live <titonically difficult picture>.
+<img src="https://user-images.githubusercontent.com/45210795/182029712-c64b62a8-10b3-4b1f-afe4-b1275c2a1915.jpg" align="left" height="180"/>
+<img src="https://user-images.githubusercontent.com/45210795/182029621-151078c0-2fa0-4fba-a9fe-88566e78bcec.jpg" align="right" height="180"/>
+
+I tried to search the Internet for methodologies and best practices for self-development.<br>
+
+I have seen how people write about how to make and reach goals, make themselves better, be successful and other strange things to me.
+It is all not meaningless, but it is just the small part of an iceberg that cannot stay afloat without a huge underwater invisible part.
+Besides goals and achievements in life, there is still a lot of things that are much more significant, valuable and interesting.
+And in truth, achievements of goals can be titonically difficult without the simple ability to live.
+
+<br clear="left"/>
+And in truth, achievements of goals can be titonically difficult without the simple ability to live <titonically difficult picture>.
 
 Comparing self-development process to process of site creation - if you will focus on goals and success, then you draw design of your client-side (Frontend), but you will still need big amount of work for creating server-side (backend). And now let's see how the development of the site differs from the development of person itself: to create backend part of site you can hire one more software developer, tell him what to do, and he will do it for you. But to make real self-development maximum who you can hire is a set of consultants and coaches - it means you have to do main job by yourself, nobody except you can't change you, of course, if we discard the direct effect on the body due to surgical or medical intervention. That is why we see such cases when people not accept themselves, run to consultants, sometimes it helps (and it is really good when consultant can help you), and if consultants can not help some people try to fix their bodies with hope that after fix they will accept themselves. I will say you even more, when people unsatisfied, sometimes they can suffer, and it can push them to do things that even they themselves would not wish such things on anyone, for example: drug use, suicide, crime. So when unprepared people want to develop themselves and read about methodologies written in terminology like goals and success, for most part of these people it this will lead to an attempt to harness themselves and at the same time beckon them with a carrot and beat them in the ass with a whip, and so on until you are blue in the face.
 
