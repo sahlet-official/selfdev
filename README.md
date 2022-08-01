@@ -22,9 +22,21 @@ That is why we see such cases when people not accept themselves, run to consulta
 <br clear="left"/>
 
 
-I want to start my self-development process not by setting my goals (not hang a carrot in front of me and dream about the taste of it) and then try to achieve them in the spirit of the traditional racers for success phrase "fake it until you make it". No. I don't want to look like successful. I actually even don't want to be successful (in terms of society). I want just live life with pleasure do what I want or nothing at all (which is also cool thing actually - just live and do nothing).
-So I want to start with creating of really powerful strong foundation - create my "Backend" that will allow me to make the "Frontend" whatever I want. If saying in allegories: on such foundation I will be able to launch rockets, build skyscraper, malls, or just live like that and with time the foundation will be overgrown with forest (do nothing and see what's happening). [Click here to see what exactly foundation means](./FOUNDATION.md).
-
+I prefer to use direction rather goal. When you're trying to achieve a goal - you are learning how to get closer to a goal and focus on future, when you choose direction - you are learning how to walk and focus on now. The reason of such approach is because of you don't try to achieve something, no, you just do, so if you can enjoy the current process it is much better than you try to achieve something. I see goal achieving process kind of not stable - you focus on your goal and can forget about anything else, rather than just walk selected way with no mater of your speed, if you select comfort tempo, and you can feel happy just like that without anything - in my opinion this is the best way to live.
 <img src="https://user-images.githubusercontent.com/45210795/182031447-184eaad7-124d-417f-9414-5410c35cfcbf.jpg" width="100%"/>
 <br clear="left"/>
 
+
+I want to start my self-development process not by setting my goals (not hang a carrot in front of me and dream about the taste of it) and then try to achieve them in the spirit of the traditional racers for success phrase "fake it until you make it". No. I don't want to look like successful. I actually even don't want to be successful (in terms of society). I want just live life with pleasure, be happy right now in living process and feel that it is enough (not waiting for something), and if I want to do something - than there is no reasons to do nothing. Just do what I want and the way I like, or nothing at all (which is also cool thing actually - just live and do nothing).
+So I want to start with creating of really powerful strong foundation - create my "Backend" that will allow me to make the "Frontend" whatever I want. If saying in allegories: on such foundation I will be able to launch rockets, build skyscraper, malls, or just live like that and with time the foundation will be overgrown with forest (do nothing and see what's happening). [Click here to see what exactly foundation means](./FOUNDATION.md).
+
+<br>
+
+I have decided to create a repository in GitHub for managing my self-development.<br>
+I am software developer and GitHub is just comfortable to me.<br>
+It is also convenient to use tools for self-development like project management that GitHub provide now.<br>
+<br>
+I invite everyone who interested to view the process of my self-development.<br>
+Let's exchange experience, ask questions, share the best practice.<br>
+
+<br clear="left"/>
