@@ -22,7 +22,7 @@ That is why we see such cases when people not accept themselves, run to consulta
 <br clear="left"/>
 
 
-Use direction rather goal. When you're trying to achieve a goal - you are learning how to get closer to a goal and focus on future, when you choose direction - you are learning how to walk and focus on now. The reason of such approach is because of you don't try to achieve something, no, you just do, so if you can enjoy the current process it is much better than you try to achieve something. I see goal achieving process kind of not stable - you focus on your goal and can forget about anything else, unlik just walk selected way with no mater of your speed, if you select comfort tempo, and you can feel happy just like that - in my opinion this is the best way to live.
+Use direction rather goal. When you're trying to achieve a goal - you are learning how to get closer to a goal and focus on future, when you choose direction - you are learning how to walk and focus on now. The reason of such approach is because of you don't try to achieve something, no, you just do, so if you can enjoy the current process it is much better than you try to achieve something. I see goal achieving process kind of not stable - you focus on your goal and can forget about anything else, unlike just walk selected way with no mater of your speed, if you select comfort tempo, and you can feel happy just like that - in my opinion this is the best way to live.
 <img src="https://user-images.githubusercontent.com/45210795/182031447-184eaad7-124d-417f-9414-5410c35cfcbf.jpg" width="100%"/>
 <br clear="left"/>
 
