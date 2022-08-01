@@ -24,4 +24,5 @@ recognize a need and satisfy it directly.
 <br>
 <br>
 
-### Further directions will depend on what are my needs and what are my limits.
+### Further directions will depend on what are my needs and what are my limits<br>
+It means firstly I need to move in these directions before starting the next ones.
