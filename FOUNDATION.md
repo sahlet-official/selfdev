@@ -1,4 +1,6 @@
-### What exactly foundation means:
+### What exactly foundation means?
+
+#### Build foundation - means setup following processes:
 
 1. Practice
    - Practice exercises for:
