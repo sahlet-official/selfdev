@@ -20,8 +20,10 @@ recognize a need and satisfy it directly.
    - Monitor well-being, number of parameters which allow timely detection or even prevention of deviation from the desired healthy state.
 4. Limits, predispositions, talents, cautions
    - Find out what I can do, what is recommended doing (allowed) and what is not recommended doing. What are my limits, what lifestyle is optimal for me according to my initial parameters (health, type of nervous system, genetic predisposition, susceptibility to disease, some other parameters...).
-5. Communication
-   - Set up skills of communication with people (soft skills, emotional intelligence, oratory, rhetoric).
+5. Soft Skills
+   - Set up skills of communication with people (soft skills..., emotional intelligence, oratory, rhetoric).
+   - Set up skills related to perception, processing, filtering, storage and reproduction of information.
+   - Set up skills related to learning and adaptation.
 
 <br>
 <br>
