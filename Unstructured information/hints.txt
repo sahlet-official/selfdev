@@ -18,3 +18,8 @@ saved storages of information:
 16. health (wellness) diary
 17. food diary
 18. chat "Вопросы/ответы"
+
+possible reinvented bicycles:
+lifestile - "мягкая ладонь", "soft palm"
+approach to execution - "метод капель", "blob method"
+time management - 30/15, "tomato method"
