@@ -1,6 +1,7 @@
 Rules gained on experience and which are very recommended to follow:
 
 1. Замедляющие:
+
     1.1. If you don't want to - don't do it.
          Не хочешь - не делай.
 
@@ -64,4 +65,10 @@ Rules gained on experience and which are very recommended to follow:
 
     3.11. Снизьте темп чтоб увидеть происходящее.
 
+4. Сложные:
 
+    4.1. Суть процесса обучения в том, что в начале величина ошибки велика, и со временем она уменьшается. Стоит подкреплять удачу и игнорировать неудачу.
+
+5. Личные:
+
+    5.1. Как ты хочешь жить? Приятно, расслабленно.
