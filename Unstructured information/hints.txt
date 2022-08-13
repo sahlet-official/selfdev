@@ -22,5 +22,7 @@ saved storages of information:
 possible reinvented bicycles:
 - lifestile - "мягкая ладонь", "soft palm"
 - approach to execution - "метод капель", "blob method", "жабы, медведи, слоны"
+Чтоб внедрить шаблон поведения - лучше начинать с малого, по чучуть, метод капель.
+Метод капель - понижение темпа для понижения сложности и повышения мотивации
 - execution process - 30/15, "tomato method". wondering is approach related to process interruption better and simpler for mind work than try to make your tempo constantly relaxed and maintain this tempo without big number of  interruptions?
 - time management - daily planing and fixing activity
