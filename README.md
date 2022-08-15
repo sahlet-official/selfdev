@@ -27,7 +27,7 @@ Use direction rather than a goal. When you're trying to achieve a goal - you are
 
 
 I want to start my self-development process not by setting my goals (not hanging a carrot in front of me and dreaming about its taste) and then trying to achieve them in the spirit of racer for success "fake it until you make it". No. I don't want to look successful. Prefer the following. Just live life with pleasure, be happy right now in the living process, and feel that it is enough (not waiting for something). And if you want to do something - just do what you want and the way you like, or nothing at all (which is also a cool thing actually - just live and do nothing).<br>
-So it is good to start with creating of really powerful strong foundation - create "Backend" that will allow making the "Frontend" any. If saying in allegories: on a such foundation you can launch rockets, build skyscrapers, malls, or do nothing and see what happens, maybe over time the foundation will be overgrown with forest. [Click here to see what exactly foundation means](./FOUNDATION.md).
+So it is good to start with creating of really powerful strong foundation - create "Backend" that will allow making the "Frontend" any. If saying in allegories: on a such foundation you can launch rockets, build skyscrapers, malls, or do nothing and see what happens, maybe over time the foundation will be overgrown with forest. [Click here to see what exactly foundation means](./Documentation/FOUNDATION.md).
 
 <br>
 
