@@ -5,7 +5,7 @@
 1. Practice
    - Practice exercises for:
      - to impact cognitive functions;
-     - to choose and develop a mindset (principles) that will allow me to define the foundation to live life as I want (relaxed enough, happy) and for everything that I do, in a sense, a religion built not on dogmas, but on naturally formed regularities obtained by personal experience or provable ways;
+     - to choose and develop a mindset (principles) that will allow me to define the foundation to live life as I want, and for everything that I do, in a sense, a religion built not on dogmas, but on naturally formed regularities obtained by personal experience or provable ways;
      - to develop acceptance;
      - to be able to manage the degree to which an environment influences my mental and emotional state;
      - to feel the sufficiency of satisfaction of basic needs;
