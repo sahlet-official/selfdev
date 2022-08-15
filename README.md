@@ -1,27 +1,27 @@
 ### Repository for organizing self-development process
 
 
-I really interested in dive into the topic of self-development.
+I am really interested in diving into the topic of self-development.
 
 <img src="https://user-images.githubusercontent.com/45210795/182029712-c64b62a8-10b3-4b1f-afe4-b1275c2a1915.jpg" align="left" height="170"/>
 <img src="https://user-images.githubusercontent.com/45210795/182029621-151078c0-2fa0-4fba-a9fe-88566e78bcec.jpg" align="right" height="170"/>
 
 I tried to search the Internet for methodologies and best practices for self-development.<br>
 
-I have seen how people write about how to make and reach goals, make themselves better, be successful and other strange things to me.
-It is all not meaningless, but it is just the small part of an iceberg that cannot stay afloat without a huge underwater invisible part.
+I have seen how people write about how to make and reach goals, make themselves better, be successful, and other strange things to me.
+It is not meaningless, but it is just the small part of an iceberg that cannot stay afloat without a huge underwater invisible part.
 Besides goals and achievements in life, there are still a lot of things that are much more significant, valuable and interesting.
 
 <br clear="left"/>
 
-<img src="https://user-images.githubusercontent.com/45210795/182031135-cde2a068-104b-470d-998f-9337229dc11e.jpg" align="right" height="210"/> And in truth, achievements of goals can be titanic difficult without the simple ability to live. Comparing self-development process to process of site creation - if you will focus on goals and success, then you draw design of your client-side (Frontend), but you will still need big amount of work for creating server-side (Backend). Simply put, you need to set up a lot of processes to make the site work the way you imagine it to. And now let's see how the development of the site differs from the development of person itself: to create backend part of site you can hire one more software developer, tell him what to do, and he will do it for you. But to make real self-development maximum who you can hire is a set of consultants and coaches - it means you have to do main job by yourself, nobody except you can't change you, of course, if we discard the direct effect on the body due to surgical or medical intervention.<br>
+<img src="https://user-images.githubusercontent.com/45210795/182031135-cde2a068-104b-470d-998f-9337229dc11e.jpg" align="right" height="210"/> And in truth, achievements of goals can be titanic difficult without the simple ability to live. Comparing the self-development process to the process of site creation - if you will focus on goals and success, then you draw a design of your client-side (Frontend), but you will still need a big amount of work for creating server-side (Backend). Simply put, you need to set up a lot of processes to make the site work the way you imagine it to. And now let's see how the development of the site differs from the development of the person itself: to create the backend part of the site you can hire one more software developer, tell him what to do, and he will do it for you. But to make real self-development maximum who you can hire is a set of consultants and coaches - it means you have to do the main job by yourself, nobody except you can't change you, of course, if we discard the direct effect on the body due to surgical or medicinal intervention.<br>
 
-That is why we see such cases when people not accept themselves, run to consultants, sometimes it helps (and it is really good when consultant can help you), and if consultants can not help some people try to fix their bodies with hope that after fix they will accept themselves. I will say you even more, when people unsatisfied, sometimes they can suffer, and it can push them to do things that even they themselves would not wish such things on anyone, for example: drug use, suicide, crime. So when unprepared people want to develop themselves and read about methodologies written in terminology like goals and success, for most part of these people it this will lead to an attempt to harness themselves and at the same time beckon them with a carrot and beat them in the ass with a whip, and so on until you are blue in the face.
+That is why we see such cases when people do not accept themselves, run to consultants, sometimes it helps (and it is really good when a consultant can help you), and if consultants can not help some people try to fix their bodies with hope that after fix they will accept themselves. I will tell you even more, when people are unsatisfied, sometimes they can suffer, and it can push them to do things that even they would not wish such things on anyone, for example: drug use, suicide, crime. So when unprepared people want to develop themselves and read about methodologies written in terminologies like goals and success, for the most part of these people it will lead to an attempt to harness themselves and at the same time beckoning them with a carrot and beat them in the ass with a whip, and so on until you are blue in the face.
 
 <br clear="left"/>
 
 
-Use direction rather goal. When you're trying to achieve a goal - you are learning how to get closer to a goal and focus on future, when you choose direction - you are learning how to walk and focus on now. With this approach you don't try to achieve something, no, you just do, so if you can enjoy the current process it is much better than you try to achieve something. I see goal achieving process kind of not stable - you focus on your goal and can forget about anything else, unlike just walk selected way with no matter at what speed, if you select comfort tempo, and you are able to feel happy just like that - in my opinion this is the best way to live.
+Use direction rather than a goal. When you're trying to achieve a goal - you are learning how to get closer to a goal and focus on the future, when you choose a direction - you are learning how to walk and focus on now. With this approach you don't try to achieve something, no, you just do, so if you can enjoy the current process it is much better than you trying to achieve something. I see goal achieving process kind of not stable - you focus on your goal and can forget about anything else, unlike just walking a selected way with no matter at what speed, if you select comfort tempo, and you are able to feel happy just like that - in my opinion, this is the best way to live.
 <img src="https://user-images.githubusercontent.com/45210795/182031447-184eaad7-124d-417f-9414-5410c35cfcbf.jpg" width="100%"/>
 <br clear="left"/>
 
