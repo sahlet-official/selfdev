@@ -1,15 +1,15 @@
-### What exactly does foundation mean?
+### Что именно означает фундамент?
 
-#### Build foundation - means setup following processes:
+#### Построить фундамент - означает настроить следующие процессы:
 
-1. Practice
-   - Practice exercises for:
-     - to impact cognitive functions;
-     - to choose and develop a mindset (principles) that will allow me to define the foundation to live life as I want, and for everything that I do, in a sense, a religion built not on dogmas, but on naturally formed regularities obtained by personal experience or provable ways;
-     - to develop acceptance;
-     - to be able to manage the degree to which an environment influences my mental and emotional state;
-     - to feel the sufficiency of satisfaction of basic needs;
-     - to see the choice and to make a choice to do something extra (besides satisfying basic needs) or not;
+1. Практики
+   - Практика упражнений для:
+     - влияние на когнитивные функции;
+     - выбрать и проработать такие шаблоны мышления (принципы), которые сформируют основу для всего, что я делаю, позволяющую жить так, как я хочу, в некотором смысле религию, построенную не на догмах, а на естественно сложившихся закономерностях, увиденных из личного опыта или добытых методами доказательства (проверяемыми способами);
+     - развитие принятия;
+     - быть в состоянии хотя б частично управлять степенью влияния окружающей среды на мое психическое и эмоциональное состояние;
+     - чувствовать достаточность удовлетворения базовых потребностей;
+     - видеть выбор и делать выбор заниматься чем-то еще, кроме удовлетворения базовых потребностей, или нет;
    - Suppose it will be mindfulness. Actually I am already available to be happy - mindfulness helped with it. I have practiced mindfulness for about a year and a half and have one year break. I have learned a lot over time with and without practice. Feel great potential for further development in this direction.
 2. Needs Understanding
    - Set up a deep understanding of people's needs, use the knowledge in practice for my life, recognize a need and satisfy it directly.
