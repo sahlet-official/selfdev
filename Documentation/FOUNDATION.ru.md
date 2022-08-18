@@ -27,5 +27,5 @@
 <br>
 <br>
 
-### Further directions will depend on what are my needs and what are my limits<br>
-It means firstly I need to move in these directions before starting the next ones.
+### Дальнейшие направления будут зависеть от того, какие у меня потребности и каковы мои пределы<br>
+Это означает, что сначала мне следует двигаться в этих направлениях, прежде чем начинать следующие.
