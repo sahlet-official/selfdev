@@ -16,13 +16,13 @@
 3. Здоровье
    - Наладить процессы поддержания физического и психического здоровья и систему предотвращения кризисов.
    - Разработать и внедрить шаблоны поведения, которые позволят мне поддерживать здоровье.
-   - Monitor well-being. Monitor the number of parameters that allow timely detection or even prevention of deviation from the desired healthy state.
-4. Limits, predispositions, talents, cautions
-   - Find out what I can do, what is recommended doing (allowed), and what is not recommended. What are my limits, what lifestyle is optimal for me according to my initial parameters (health, type of nervous system, genetic predisposition, susceptibility to disease, and some other parameters...).
+   - Наблюдать за самочувствием. Мониторить набор параметров, позволяющих своевременно обнаруживать или даже предотвращать отклонения от желаемого здорового состояния.
+4. Пределы возможностей, предрасположенности, таланты, предостережения
+   - Узнайте, что я могу делать, что рекомендуется делать (разрешено), а что не рекомендуется. Каковы мои пределы, какой образ жизни оптимален для меня по моим исходным параметрам (здоровье, тип нервной системы, генетическая предрасположенности, предрасположенности к заболеваниям, какие-то другие параметры...).
 5. Soft Skills
-   - Set up skills of communication with people (soft skills..., emotional intelligence, oratory, rhetoric).
-   - Set up skills related to perception, processing, filtering, storage and reproduction of information.
-   - Set up skills related to learning and adaptation.
+   - Настроить навыки общения с людьми (soft skills..., эмоциональный интеллект, ораторское искусство, риторика).
+   - Настроить навыки, связанные с восприятием, обработкой, фильтрацией, хранением и воспроизведением информации.
+   - Настроить навыки, связанные с обучением и адаптацией.
 
 <br>
 <br>
