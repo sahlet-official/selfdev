@@ -10,12 +10,12 @@
      - быть в состоянии хотя б частично управлять степенью влияния окружающей среды на мое психическое и эмоциональное состояние;
      - чувствовать достаточность удовлетворения базовых потребностей;
      - видеть выбор и делать выбор заниматься чем-то еще, кроме удовлетворения базовых потребностей, или нет;
-   - Suppose it will be mindfulness. Actually I am already available to be happy - mindfulness helped with it. I have practiced mindfulness for about a year and a half and have one year break. I have learned a lot over time with and without practice. Feel great potential for further development in this direction.
-2. Needs Understanding
-   - Set up a deep understanding of people's needs, use the knowledge in practice for my life, recognize a need and satisfy it directly.
-3. Health
-   - Set up processes for maintaining physical and mental health and system of crisis prevention.
-   - Develop and integrate behavior templates that will allow me to maintain health.
+   - Скорее всего это будет осознанность. Вообще-то я уже научился быть счастливым, в этом помогла осознанность. Практиковал осознанность около полутора лет и после этого один год не практикую. Многому научился за время с практикой и без нее. Чувствую большой потенциал для дальнейшего развития в этом направлении.
+2. Понимание потребностей
+   - Развить глубокое понимание человеческих потребностей, использовать полученные знания на практике в своей жизни (в реальном времени), распознавать потребность и удовлетворять ее напрямую.
+3. Здоровье
+   - Наладить процессы поддержания физического и психического здоровья и систему предотвращения кризисов.
+   - Разработать и внедрить шаблоны поведения, которые позволят мне поддерживать здоровье.
    - Monitor well-being. Monitor the number of parameters that allow timely detection or even prevention of deviation from the desired healthy state.
 4. Limits, predispositions, talents, cautions
    - Find out what I can do, what is recommended doing (allowed), and what is not recommended. What are my limits, what lifestyle is optimal for me according to my initial parameters (health, type of nervous system, genetic predisposition, susceptibility to disease, and some other parameters...).
