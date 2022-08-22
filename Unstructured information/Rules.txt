@@ -9,6 +9,9 @@ Rules gained on experience and which are very recommended to follow:
     0.2. Observe and accept.
          Наблюдайте и принимайие.
 
+    0.3. Control does not exist.
+         Контроля не существует.
+
 1. Slow down:
    Замедляющие:
 
@@ -24,8 +27,8 @@ Rules gained on experience and which are very recommended to follow:
     1.4. If you want to do something - you always have the choice to do it or not.
          Если вы хотите делать что-то - всегда есть выбор делать это или нет.
 
-    1.5. If you are already doing something - don't forget to ask yourself sometimes if you still want it or not.
-         Если вы уже делаете что-то - не забывайте иногда спросить себя вы все еще хотите этого или нет.
+    1.5. If you are already doing something - ask yourself sometimes if you still want it or not.
+         Если вы уже делаете что-то - спрашивайте себя иногда вы все еще хотите этого или нет.
 
     1.6. Doing nothing is good rest
          Ничего неделанье - хороший отдых.
@@ -169,8 +172,61 @@ Rules gained on experience and which are very recommended to follow:
     4.5. If you can't love what you do - after changing the type of activity, you will probably stop loving it too. If you have learned to love the process now, you will be able love any activity if you want.
          Если вы не умеете любить то, что вы делаете - после смены рода деятельности скорее всего вы разлюбите и его. Если вы научились любить процесс сейчас - вы сумеете полюбить любое дело, если захотите.
 
-    4.6. Any of your actions are aimed at ultimately making you feel good so that you are happy. This is how your emotions work, they help you understand what is good for you and what is bad. If you do not feel the emotional return from what you are doing, soon you will stop doing it or get sick. If you don't believe, start asking yourself why you are doing something and for each answer ask the same question "Why?", and then sooner or later you will come to the answer "to make me feel good". But for this to happen, it is not at all necessary for something to happen from the outside, it is necessary and sufficient that you feel good inside. If you feel bad - take care to make yourself feel good and only after that everything else. If you don't know how to do it yourself - ask for help, and look until you find it. You don't have to do anything to feel good, it can happen on its own, it's a natural default state. How to learn to be happy? Start with non-resistance (acceptance) of suffering, and you will see how it decreases.
-         Любые ваши действия направлены на то, чтобы в конечном итоге вам стало хорошо, чтобы вы были счастливы. Так работают ваши эмоции, они помогают вам понять что для вас хорошо, а что плохо. Если вы не будете чувствовать эмоциональной отдачи от того что вы делаете - скоро вы перестанете это делать или заболеете. Если вы не верите - начните спрашивать себя зачем вы что-то делаете и на каждый ответ задавайте все тот же вопрос "Зачем?", и тогда рано или поздно вы придете к ответу "чтобы я чувствовал себя хорошо". Но для того, чтоб ви чувствовали себя хорошо, совсем не обязательно чтоб произошло что-то с наружи, необходимо и достаточно чтобы вам стало хорошо внутри. Если вам плохо - займитесь тем чтобы вам стало хорошо и только потом всем остальным. Если вы не знаете как это сделать самому - просите о помощи, ищите, пока не найдете. Не обязательно что-то делать, чтобы вам стало хорошо, это может произойти само по себе, это естественное состояние по умолчанию. Как научиться быть счастливым? Начните с непротивления (принятия) страдания, и вы увидите, как оно уменьшится.
+    4.6. Any of your actions are aimed at ultimately making you feel good so that you are happy. This is how your emotions work, they help you understand what is good for you and what is bad.
+         If you do not feel the emotional return from what you are doing, soon you will stop doing it or get sick.
+         If you don't believe, start asking yourself why you are doing something and for each answer ask the same question "Why?", and then sooner or later you will come to the answer "to make me feel good".
+         But for this to happen, it is not at all necessary for something to happen from the outside, it is necessary and sufficient that you feel good inside.
+         If you feel bad - take care to make yourself feel good and only after that everything else.
+         If you don't know how to do it yourself - ask for help, and look until you find it. You don't have to do anything to feel good, it can happen on its own, it's a natural default state.
+         How to learn to be happy? Start with non-resistance (acceptance) of suffering, and you will see how it decreases.
+         Любые ваши действия направлены на то, чтобы в конечном итоге вам стало хорошо, чтобы вы были счастливы. Так работают ваши эмоции, они помогают вам понять что для вас хорошо, а что плохо.
+         Если вы не будете чувствовать эмоциональной отдачи от того что вы делаете - скоро вы перестанете это делать или заболеете.
+         Если вы не верите - начните спрашивать себя зачем вы что-то делаете и на каждый ответ задавайте все тот же вопрос "Зачем?", и тогда рано или поздно вы придете к ответу "чтобы я чувствовал себя хорошо".
+         Но для того, чтоб ви чувствовали себя хорошо, совсем не обязательно чтоб произошло что-то с наружи, необходимо и достаточно чтобы вам стало хорошо внутри.
+         Если вам плохо - займитесь тем чтобы вам стало хорошо и только потом всем остальным.
+         Если вы не знаете как это сделать самому - просите о помощи, ищите, пока не найдете. Не обязательно что-то делать, чтобы вам стало хорошо, это может произойти само по себе, это естественное состояние по умолчанию.
+         Как научиться быть счастливым? Начните с непротивления (принятия) страдания, и вы увидите, как оно уменьшится.
+
+    4.7. You literally control nothing. It is a fact. There is only some degree of influence on processes.
+         The magnitude of this influence depends on so many factors, visible and invisible to you, and the degree of your influence in all cases is not 100%.
+         This means that you are not able to control something completely. Then, in fact, you do not control literally anything, you can only influence.
+         Realizing this opens up great opportunities for you, you move from the binary perception of "have control / do not have control" to the perception of "how much influence I have on ...".
+
+         Вы не контролируете буквально ничего. Это факт. Есть лишь некоторая степени влияния на процессы.
+         Величина этого влияния зависит от очень многих факторов, видимых и невидимых вам, и степень вашего влияния во всех случаях не 100%.
+         Это значит, что вы не способны контролировать что-то полностью. Тогда, по сути, вы не контролируете буквально ничего, вы способны лишь только влиять.
+         Осознание этого открывает перед вами огромные возможности, вы переходите от бинарного восприятия "контролирую / не контролирую" к восприятию "какая моя степень влияния на...".
+
+    4.8. Many parameters characterize your state (happiness, peace, muscle strength, ligament flexibility, endurance, degree of influence on.., metabolic rate......).
+         The value of any such parameter is not constant and depends on many external and internal conditions (energy, ambient temperature, satiety, blood pressure, heart rate, state of emotions, time of day ......).
+         If you want to influence the value of your state parameter, there are at least 3 options for how you can do this.
+         The first is to try to influence the parameter itself, regardless of the conditions. The second is to expand the zone of conditions acceptable to you. The third is to find and provide the best conditions for you.
+         Consider the value of the parameter as x = f(y1, y2, ...yn, z1, z2, ..., zm).
+         x ∊ X is the range of the parameter x.
+         Vector (y1, y2, ..., yn) ∊ Y, where Y is an n-dimensional set of known conditions affecting the parameter x.
+         Vector (z1, z2, ..., zm) ∊ Z, where Z is an m-dimensional set of unknown conditions affecting the parameter x.
+         f is a function of the parameter x, defined on the set of conditions D = Y×Z, where × is the Cartesian product.
+         Let's say we want to maximize the parameter x.
+         4.8.1. The first way to influence x is to try to influence the parameter by changing the function f on the entire set of conditions D (without reference to conditions).
+         This method is usually resorted to, either when they do not see the connection between the conditions and the parameter and try to influence the parameter directly in the forehead, or when it is possible to keep the conditions fairly stable in a predictable range.
+         4.8.2. The second way - initially the parameter x had acceptable values ​​on a certain set of conditions Y1 ⊂ Y, and you changed the function f to adapt to the new conditions by expanding the zone of conditions that is comfortable for you from Y1 to Y2, where Y1 ⊂ Y2 ⊂ Y.
+         4.8.3. The third way - instead of changing the function f, the most acceptable conditions Y3 ⊂ Y are chosen and maintained, under which the parameter x is naturally maximized and takes the "best" values ​​from X.
+
+         Есть много параметров характеризующих ваше состояние (счастье, покой, сила мышц, гибкость связок, выносливость, степень влияния на.., скорость метаболизма......).
+         Величина любого такого параметра не постоянная и зависит от многих условий внешних и внутренних (бодрость, температура окружающей среды, сытость, кровеносное давление, ЧСС, состояние эмоций, время суток......).
+         Если вы хотите влиять на величину параметра своего состояния - есть как минимум 3 варианта, как можно это делать.
+         Первый - пробовать повлиять на сам параметр не обращая внимания на условия. Второй - расширить зону приемлемых для вас условий. Третий - найти и обеспечить наилучшие для вас условия.
+         Рассмотрим величину параметра как x = f(y1, y2, ...yn, z1, z2, ..., zm).
+         x ∊ X - область значений параметра x.
+         Вектор (y1, y2, ..., yn) ∊ Y, где Y - n-мерное множество известных условий влияющих на параметр x.
+         Вектор (z1, z2, ..., zm) ∊ Z, где Z - m-мерное множество неизвестных условий влияющих на параметр x.
+         f - функция параметра x, определенная на множестве условий D = Y×Z, где × это декартово произведение.
+         Допустим мы хотим максимизировать параметр x.
+         4.8.1. Первый способ воздействия на x - попытки влиять на параметр изменив функцию f на всем множестве условий D (без привязки к условиям).
+         К этому способу обычно прибегают, либо когда не видят связи между условиями и параметром и пробуют воздействовать на параметр непосредственно в лоб, либо когда есть возможность поддерживать условия довольно устойчивыми в предсказуемом диапазоне.
+         4.8.2. Второй способ - изначально параметр x имел приемлемые значения на некотором множестве условий Y1 ⊂ Y, и вы изменили функцию f адаптировавшись к новым условиям расширив комфортную для вас зону условий от Y1 до Y2, где Y1 ⊂ Y2 ⊂ Y.
+         4.8.3. Третий способ - вместо того, чтоб менять функцию f, выбираются и поддерживаются наиболее приемлемые условия Y3 ⊂ Y, при которых параметр x естественным образом максимизируется и принимает "наилучшие" значения из X.
+
 
 5. My personal choice:
    Мой личный выбор:
