@@ -13,6 +13,8 @@
    - Suppose it will be mindfulness. Actually I am already available to be happy - mindfulness helped with it. I have practiced mindfulness for about a year and a half and have one year break. I have learned a lot over time with and without practice. Feel great potential for further development in this direction.
 2. Needs understanding
    - Set up a deep understanding of people's needs, use the knowledge in practice for my life, recognize a need and satisfy it directly.
+   - Learn to recognize which needs are more prioritized right now.
+   - Learn to make time for each need.
 3. Health
    - Set up processes for maintaining physical and mental health and system of crisis prevention.
    - Develop and integrate behavior templates that will allow me to maintain health.
