@@ -5,6 +5,7 @@
 1. Practice
    - Practice exercises for:
      - to impact cognitive functions;
+     - to learn how to develop and integrate behavioral patterns;
      - to choose and develop a mindset (principles) that will allow me to define the foundation to live life as I want, and for everything that I do, in a sense, a religion built not on dogmas, but on naturally formed regularities obtained by personal experience or provable ways;
      - to develop acceptance;
      - to be able to manage the degree to which an environment influences my mental and emotional state;
@@ -25,6 +26,7 @@
    - Set up skills of communication with people (soft skills..., emotional intelligence, oratory, rhetoric).
    - Set up skills related to perception, processing, filtering, storage and reproduction of information.
    - Set up skills related to learning and adaptation.
+   - Set up an understanding of behavioral science and use it in practice.
 
 <br>
 <br>
