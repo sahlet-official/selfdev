@@ -6,7 +6,8 @@
    - Practice exercises for:
      - to impact cognitive functions;
      - to learn how to develop and integrate new behavioral patterns, transform existing ones;
-     - to learn to see the rate of expenditure of forces (tempo) and influence it, direct forces where I want;
+     - to learn to see the reserve of strength, see tempo (the rate of consumption of body resources, strength) and influence it;
+     - to learn to direct strength where I want;
      - to choose and develop a mindset (principles) that will allow me to define the foundation to live life as I want, and for everything that I do, in a sense, a religion built not on dogmas, but on naturally formed regularities obtained by personal experience or provable ways;
      - to develop acceptance;
      - to be able to manage the degree to which an environment influences my mental and emotional state;
