@@ -24,6 +24,10 @@
    - Monitor well-being. Monitor the number of parameters that allow timely detection or even prevention of deviation from the desired healthy state.
 4. Limits understanding, predispositions, talents, cautions
    - Find out what I can do, what is recommended doing (allowed), and what is not recommended. What are my limits, character, temperament, what lifestyle is optimal for me according to my initial parameters (health, type of nervous system, genetic predisposition, susceptibility to disease, and some other parameters...).
+   - Methods:
+     - genetic screening;
+     - consulting with experts in the field of the work of the mind and body;
+     - tests of the body, resource characteristics, potentials of opportunities, search for optimal conditions and parameters;
 5. Soft Skills
    - Set up skills of communication with people (soft skills..., emotional intelligence, oratory, rhetoric).
    - Set up skills related to perception, processing, filtering, storage and reproduction of information.
