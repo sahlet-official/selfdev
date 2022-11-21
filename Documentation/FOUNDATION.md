@@ -19,6 +19,7 @@
    - Learn to recognize which needs are more prioritized right now.
    - Learn to make time for each need.
    - To figure out if I want glory, greatness, power, or happiness is enough.
+   - To understand whether all the actions of a person are dictated by his needs, or whether he can do something just like that.
 3. Health
    - Set up processes for maintaining physical and mental health and system of crisis prevention.
    - Develop and integrate behavior templates that will allow me to maintain health and mental clarity.
