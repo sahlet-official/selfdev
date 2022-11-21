@@ -20,7 +20,7 @@
    - Learn to make time for each need.
 3. Health
    - Set up processes for maintaining physical and mental health and system of crisis prevention.
-   - Develop and integrate behavior templates that will allow me to maintain health.
+   - Develop and integrate behavior templates that will allow me to maintain health and mental clarity.
    - Monitor well-being. Monitor the number of parameters that allow timely detection or even prevention of deviation from the desired healthy state.
 4. Limits understanding, predispositions, talents, cautions
    - Find out what I can do, what is recommended doing (allowed), and what is not recommended. What are my limits, character, temperament, what lifestyle is optimal for me according to my initial parameters (health, type of nervous system, genetic predisposition, susceptibility to disease, and some other parameters...).
