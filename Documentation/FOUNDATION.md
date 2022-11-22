@@ -18,7 +18,8 @@
    - Set up a deep understanding of people's needs, use the knowledge in practice for my life, recognize a need and satisfy it directly.
    - Learn to recognize which needs are more prioritized right now.
    - Learn to make time for each need.
-   - To figure out if I want glory, greatness, power, or happiness is enough.
+   - To figure out if I want a high, or a non-intense happiness is enough, why I am afraid of a high, what are the consequences of feeling intense pleasant emotions, why addiction is formed.
+   - To figure out if I want glory, greatness and power, why people want this and what are the consequences of trying to achieve such thing, am I ready for this. It feels like a desire for greatness goes hand in hand with insanity..
    - To understand whether all the actions of a person are dictated by his needs, or whether he can do something just like that.
 3. Health
    - Set up processes for maintaining physical and mental health and system of crisis prevention.
