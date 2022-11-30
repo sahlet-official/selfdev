@@ -26,12 +26,14 @@
    - Develop and integrate behavior templates that will allow me to maintain health and mental clarity.
    - Monitor well-being. Monitor the number of parameters that allow timely detection or even prevention of deviation from the desired healthy state.
    - To understand whether the desire for glory is healthy, whether there is a desire for glory without madness, where is the line between healthy and unhealthy ambitions, and are there healthy ambitions exist.
+   - Possible methods: preventive medicine, hygiene, sanitation, valeology, yoga.
 4. Limits understanding, predispositions, talents, cautions
    - Find out what I can do, what is recommended doing (allowed), and what is not recommended. What are my limits, character, temperament, what lifestyle is optimal for me according to my initial parameters (health, type of nervous system, genetic predisposition, susceptibility to disease, and some other parameters...).
    - Methods:
      - genetic screening;
      - consulting with experts in the field of the work of the mind and body;
      - tests of the body, resource characteristics, potentials of opportunities, search for optimal conditions and parameters;
+     - life design, prototyping, gaining experience on experimental activity models (watch Life Design course from Stanford);
 5. Soft Skills
    - Set up skills of communication with people (soft skills..., emotional intelligence, oratory, rhetoric).
    - Set up skills related to perception, processing, filtering, storage and reproduction of information.
