@@ -21,6 +21,8 @@
    - To figure out if I want a high, or a non-intense happiness is enough, why I am afraid of a high, what are the consequences of feeling intense pleasant emotions, why addiction is formed.
    - To figure out if I want accomplishments, glory, greatness and power, why people want this and what are the consequences of trying to achieve such thing, am I ready for this. It feels like a desire for greatness goes hand in hand with insanity..
    - To understand whether all the actions of a person are dictated by his needs, or whether he can do something just like that.
+   - Is it possible to do a big deal without ambition, what motivates people in this case, what needs do they satisfy.
+   - What is better to use as a motivation and what is better to not use as a motivation.
 3. Health
    - Set up processes for maintaining physical and mental health and system of crisis prevention.
    - Develop and integrate behavior templates that will allow me to maintain health and mental clarity.
