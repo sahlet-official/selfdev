@@ -48,6 +48,7 @@
    - To master the skill of searching and assimilation the needed information.
    - To master the skill of simplifying the task.
    - To master the skill of rest.
+   - To master the skill of starting a business, continuing a business, and FINISHING a business (the most important), on small and then large scales.
 
 <br>
 <br>
