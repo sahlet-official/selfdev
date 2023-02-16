@@ -48,7 +48,8 @@
    - To master the skill of searching and assimilation the needed information.
    - To master the skill of simplifying the task.
    - To master the skill of rest.
-   - To master the skill of starting a business, continuing a business, and FINISHING a business (the most important), on small and then large scales.
+   - To master the skill of prioritization.
+   - To master the skill of starting a business, continuing a business, and COMPLETING a business (the most important) and emotional confirmation - satisfaction, without a feeling of emotional confirmation of completion, the process (emotionally) does not feel complete and relaxation does not occur. Any large business can be broken down into medium businesses, and any medium business into small ones. And at each level of scale, there are these stages: beginning, continuation, and end, so that it is easy to follow and understand. It is worth mastering on a small scale, then on a medium scale, and then on a large scale.
 
 <br>
 <br>
