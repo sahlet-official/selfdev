@@ -23,6 +23,7 @@
    - To understand whether all the actions of a person are dictated by his needs, or whether he can do something just like that.
    - Is it possible to do a big deal without ambition, what motivates people in this case, what needs do they satisfy.
    - What is better to use as a motivation and what is better to not use as a motivation.
+   - Awareness of what skills exist and what I need (which ones I want to develop, the skill-building process is also important when deciding on the need for a skill because maybe you don't want to make the process happen).
 3. Health
    - Set up processes for maintaining physical and mental health and system of crisis prevention.
    - Develop and integrate behavior templates that will allow me to maintain health and mental clarity.
@@ -43,6 +44,10 @@
    - Set up an understanding of behavioral science and use it in practice.
    - Set up a voice control technique.
    - Learn to speak in public, perform on stage.
+   - To master the skill of skill-building.
+   - To master the skill of searching and assimilation the needed information.
+   - To master the skill of simplifying the task.
+   - To master the skill of rest.
 
 <br>
 <br>
