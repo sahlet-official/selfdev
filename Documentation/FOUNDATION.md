@@ -14,6 +14,7 @@
      - to feel the sufficiency of satisfaction of basic needs;
      - to see the choice and to make a choice to do something extra (besides satisfying basic needs) or not;
      - to recover the structure of inhibition so that it would be even more effective than before, could prevent excitation in the neural tissue if it is not needed now, could at the right moment in a short period of time relax the excitation in the neural tissue and maintain this relaxation for as long as necessary, or leave relaxed until arousal is needed, if needed at all;
+     - to recover the relaxation structures so that it is even more effective than before, why relaxation and not braking - because there is only one pedal in the mind - this is gas. And the braking structure is also started by pressing the gas, but its job is to slow down another structure. So you still need to be able to relax the process (release the gas pedal), so that you do not have to slow it down all the time, pressing the gas pedal of the braking structure;
    - Suppose it will be mindfulness. Actually I am already available to be happy - mindfulness helped with it. I have practiced mindfulness for about a year and a half and have one year break. I have learned a lot over time with and without practice. Feel great potential for further development in this direction.
 2. Needs understanding
    - Set up a deep understanding of people's needs, use the knowledge in practice for my life, recognize a need and satisfy it directly.
