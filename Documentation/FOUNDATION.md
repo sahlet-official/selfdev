@@ -24,7 +24,7 @@
    - To figure out if I want accomplishments, glory, greatness and power, why people want this and what are the consequences of trying to achieve such thing, am I ready for this. It feels like a desire for greatness goes hand in hand with insanity..
    - To understand whether all the actions of a person are dictated by his needs, or whether he can do something just like that.
    - Is it possible to do a big deal without ambition, what motivates people in this case, what needs do they satisfy.
-   - What is better to use as a motivation and what is better to not use as a motivation.
+   - Understand the types of motivations and understand what motive is good and what is not (for example, is it good to want fame, what is fraught with).
    - Awareness of what skills exist and what I need (which ones I want to develop, the skill-building process is also important when deciding on the need for a skill because maybe you don't want to make the process happen).
 3. Health
    - Set up processes for maintaining physical and mental health and system of crisis prevention.
