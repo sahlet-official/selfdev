@@ -642,6 +642,7 @@ _________________________<br>
   матрица денег (там дается модель потребностей)<br>
   градиент денег<br>
   Стратегия Жизни - https://courses.realitymatrix.ru/nc-str01-live?eg_tag=calendar_nc-str01_catalognc<br>
+  https://catalog.realitymatrix.ru/mx11/<br>
 - Лиза Фельдман Барретт<br>
   книга «Как рождаются эмоции»<br>
 - JENNA LEJEUNE:<br>
