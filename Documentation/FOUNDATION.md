@@ -58,3 +58,5 @@
 
 ### Further directions will depend on what are my needs and what are my limits, interests and desires<br>
 It means firstly I need to move in these directions before starting the next ones.
+
+### It became clear that the foundation for everything is the body, "a healthy mind in a healthy body."
